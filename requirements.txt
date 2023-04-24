@@ -1,0 +1,14 @@
+fpdf
+altair
+polars
+pickle5
+matplotlib
+seaborn
+numpy
+pandas
+scikit_learn
+statsmodels
+streamlit
+pdfkit
+wkhtmltopdf
+streamlit_option_menu
