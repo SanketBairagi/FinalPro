@@ -12,4 +12,3 @@ statsmodels
 pdfkit
 wkhtmltopdf
 streamlit_option_menu
-wkhtmltopdf
