@@ -116,7 +116,7 @@ if selected=="Dashboard":
     """
 <iframe title="mydash1" width="1300" height="1280" src="https://app.powerbi.com/view?r=eyJrIjoiNTcwZDg3NjAtMTA2NS00MDQxLTg4MDItYzk3NTE3OTkyZTFmIiwidCI6IjIzNDUyMjY1LTQ0NTItNDE0Zi1iMTIyLTllMjY0ZTU0ZGJiYiJ9" frameborder="0" allowFullScreen="true"></iframe>
        
-        """, height=1200)
+        """, height=1100)
 
 if selected=="Data And Analysis":
     st.markdown(
